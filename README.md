@@ -1,0 +1,2 @@
+# KotlinInheritance
+継承
